@@ -1,4 +1,4 @@
-date,time,electricity_charge,voltage,temperature,power_average,percent
+date,time,value,voltage,temperature,power_average,percent
 2018-04-1,8:59:00,135,13.9,42,3.14,62.8
 2018-04-2,9:59:00,154,14.8,42,3.45,69
 2018-04-3,10:59:00,146,14.3,45,3.32,66.4
